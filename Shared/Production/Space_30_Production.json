@@ -1,0 +1,27 @@
+{
+  "name": "Production",
+  "parent_id": 1,
+  "id": 30,
+  "content_metadata_id": 51,
+  "created_at": "2021-01-19 06:02:07 +0000",
+  "creator_id": 10,
+  "child_count": 0,
+  "external_id": null,
+  "is_embed": false,
+  "is_embed_shared_root": false,
+  "is_embed_users_root": false,
+  "is_personal": false,
+  "is_personal_descendant": false,
+  "is_shared_root": false,
+  "is_users_root": false,
+  "can": {
+    "index": true,
+    "show": true,
+    "create": true,
+    "see_admin_spaces": true,
+    "update": true,
+    "destroy": true,
+    "move_content": true,
+    "edit_content": true
+  }
+}
