@@ -1,1 +1,1 @@
-{"Development": [{"id": "39", "version": "1.1", "name": "test2", "commit": "22dcef7ff6853528a5de0eb8b4dc693e13ee6678"}]}
+{"Development": [{"id": "39", "version": "1.1", "name": "test2", "commit": "22dcef7ff6853528a5de0eb8b4dc693e13ee6678"}, {"id": "40", "version": "1.1", "name": "test2", "commit": "e95f50f59848934a13e1639ff94cfd00b2430495"}]}
