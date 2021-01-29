@@ -1,1 +1,1 @@
-{}
+{"Production": [{"id": "42", "version": "1.1", "name": "dash3", "commit": "5d8579f2abd9770c135412e697c13aa6e4c0b05e"}]}
