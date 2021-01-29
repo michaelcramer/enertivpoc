@@ -40,7 +40,47 @@
   "created_at": "2021-01-29 19:41:01 +0000",
   "crossfilter_enabled": false,
   "dashboard_elements": [
-
+    {
+      "body_text": null,
+      "body_text_as_html": null,
+      "dashboard_id": 52,
+      "edit_uri": null,
+      "id": 146,
+      "look": null,
+      "look_id": null,
+      "lookml_link_id": null,
+      "merge_result_id": null,
+      "note_display": null,
+      "note_state": null,
+      "note_text": null,
+      "note_text_as_html": null,
+      "query": null,
+      "query_id": null,
+      "refresh_interval": null,
+      "refresh_interval_to_i": null,
+      "result_maker_id": null,
+      "subtitle_text": "1.1",
+      "title": null,
+      "title_hidden": false,
+      "title_text": "version",
+      "type": "text",
+      "alert_count": 0,
+      "title_text_as_html": "version",
+      "subtitle_text_as_html": "1.1",
+      "result_maker": null,
+      "can": {
+        "create": true,
+        "update": true,
+        "destroy": true,
+        "see_aggregate_table_lookml": false,
+        "index": true,
+        "show": true,
+        "explore": false,
+        "run": false,
+        "show_errors": true,
+        "find_and_replace": true
+      }
+    }
   ],
   "dashboard_filters": [
 
@@ -56,7 +96,26 @@
       "deleted": false,
       "dashboard_title": "exitingdashboard",
       "dashboard_layout_components": [
-
+        {
+          "id": 146,
+          "dashboard_layout_id": 52,
+          "dashboard_element_id": 146,
+          "row": 0,
+          "column": 0,
+          "width": 8,
+          "height": 6,
+          "deleted": false,
+          "element_title": "version",
+          "element_title_hidden": false,
+          "vis_type": "text",
+          "can": {
+            "index": true,
+            "show": true,
+            "create": true,
+            "update": true,
+            "destroy": true
+          }
+        }
       ],
       "can": {
         "create": true,
@@ -71,7 +130,7 @@
   "deleter_id": null,
   "edit_uri": null,
   "favorite_count": 0,
-  "last_accessed_at": null,
+  "last_accessed_at": "2021-01-29 19:41:50 +0000",
   "load_configuration": "cache_run",
   "lookml_link_id": null,
   "show_filters_bar": null,
@@ -82,7 +141,7 @@
   "tile_background_color": null,
   "tile_text_color": null,
   "title_color": null,
-  "view_count": 0,
+  "view_count": 1,
   "preferred_viewer": null,
   "folder": {
     "name": "Development",
@@ -114,7 +173,7 @@
   "content_favorite_id": null,
   "model": null,
   "deleted": false,
-  "last_viewed_at": null,
+  "last_viewed_at": "2021-01-29 19:41:50 +0000",
   "folder_id": 28,
   "appearance": null,
   "can": {
