@@ -130,7 +130,7 @@
   "deleter_id": null,
   "edit_uri": null,
   "favorite_count": 0,
-  "last_accessed_at": "2021-01-29 19:48:04 +0000",
+  "last_accessed_at": "2021-01-29 20:00:04 +0000",
   "load_configuration": "cache_run",
   "lookml_link_id": null,
   "show_filters_bar": null,
@@ -141,7 +141,7 @@
   "tile_background_color": null,
   "tile_text_color": null,
   "title_color": null,
-  "view_count": 2,
+  "view_count": 5,
   "preferred_viewer": null,
   "folder": {
     "name": "Development",
@@ -173,7 +173,7 @@
   "content_favorite_id": null,
   "model": null,
   "deleted": false,
-  "last_viewed_at": "2021-01-29 19:59:06 +0000",
+  "last_viewed_at": "2021-01-29 20:00:04 +0000",
   "folder_id": 28,
   "appearance": null,
   "can": {
