@@ -130,7 +130,7 @@
   "deleter_id": null,
   "edit_uri": null,
   "favorite_count": 0,
-  "last_accessed_at": null,
+  "last_accessed_at": "2021-02-01 20:21:32 +0000",
   "load_configuration": "cache_run",
   "lookml_link_id": null,
   "show_filters_bar": null,
@@ -141,7 +141,7 @@
   "tile_background_color": null,
   "tile_text_color": null,
   "title_color": null,
-  "view_count": 0,
+  "view_count": 1,
   "preferred_viewer": null,
   "folder": {
     "name": "Production",
@@ -173,7 +173,7 @@
   "content_favorite_id": null,
   "model": null,
   "deleted": false,
-  "last_viewed_at": null,
+  "last_viewed_at": "2021-02-01 20:21:32 +0000",
   "folder_id": 30,
   "appearance": null,
   "can": {
