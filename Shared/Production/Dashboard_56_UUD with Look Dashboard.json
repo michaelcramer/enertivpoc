@@ -45,7 +45,7 @@
       "body_text_as_html": null,
       "dashboard_id": 56,
       "edit_uri": null,
-      "id": 156,
+      "id": 158,
       "look": null,
       "look_id": null,
       "lookml_link_id": null,
@@ -317,9 +317,9 @@
       "dashboard_title": "UUD with Look Dashboard",
       "dashboard_layout_components": [
         {
-          "id": 156,
+          "id": 158,
           "dashboard_layout_id": 56,
-          "dashboard_element_id": 156,
+          "dashboard_element_id": 158,
           "row": 0,
           "column": 0,
           "width": 21,
