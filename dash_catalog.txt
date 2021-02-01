@@ -1,1 +1,1 @@
-{"Development": [{"id": "61", "version": "1.0", "name": "dash2", "commit": "6380c5bbb7d076c2a50fd85712293ff74ed5e42e"}]}
+{"Development": [{"id": "61", "version": "1.0", "name": "dash2", "commit": "6380c5bbb7d076c2a50fd85712293ff74ed5e42e"}, {"id": "47", "version": "1.0", "name": "dash3", "commit": "1d78377b677d7ed0790f74c72826683338ce2f06"}]}
