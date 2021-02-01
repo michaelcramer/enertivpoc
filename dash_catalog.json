@@ -12,8 +12,6 @@
             "commit": "02aa998c45ca3724723dd13abffe0af8b321970e",
             "id": "61",
             "name": "dash2",
-            "previous_commit": "6380c5bbb7d076c2a50fd85712293ff74ed5e42e",
-            "previous_version": "1.0",
             "version": "1.1"
         },
         {
@@ -32,8 +30,6 @@
             "commit": "16dc81c0663bc4a34c5fcf5b5f56b949757fbdd7",
             "id": "56",
             "name": "UUD with Look Dashboard",
-            "previous_commit": "4be9c9ff829108ace635a8501939ac22220948cb",
-            "previous_version": "1.1",
             "version": "1.0"
         },
         {
@@ -48,8 +44,6 @@
             "commit": "17deeddd5f78c5b942cc5076404c769cc3aba3f3",
             "id": "62",
             "name": "dash2",
-            "previous_commit": "21d9f5789a0ee7d348b3690e9fbaa3b4fbfca023",
-            "previous_version": "1.1",
             "version": "1.2"
         }
     ]
