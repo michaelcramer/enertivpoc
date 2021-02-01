@@ -1,1 +1,54 @@
-{"Development": [{"id": "61", "version": "1.1", "name": "dash2", "commit": "02aa998c45ca3724723dd13abffe0af8b321970e", "previous_version": "1.0", "previous_commit": "6380c5bbb7d076c2a50fd85712293ff74ed5e42e"}, {"id": "64", "version": "1.1", "name": "UUD with Look Dashboard2", "commit": "35b600b78ba716adb7646ae467ad8de1ff6b0fd4", "previous_version": "1.1", "previous_commit": "f4d929b9c41f808b5e8599d43e6fa66d606edb8a"}], "Production": [{"id": "56", "version": "1.0", "name": "UUD with Look Dashboard", "commit": "16dc81c0663bc4a34c5fcf5b5f56b949757fbdd7", "previous_version": "1.1", "previous_commit": "4be9c9ff829108ace635a8501939ac22220948cb"}, {"id": "63", "version": "1.2", "name": "dash2", "commit": "4de766c1a6280e3f156f1b62d6dd5de263d788f7"}], "Staging": [{"id": "62", "version": "1.2", "name": "dash2", "commit": "17deeddd5f78c5b942cc5076404c769cc3aba3f3", "previous_version": "1.1", "previous_commit": "21d9f5789a0ee7d348b3690e9fbaa3b4fbfca023"}], "Archive": [{"id": "65", "version": "1.0", "name": "dash3", "commit": "229a1cc6bc238339de7c895d85a60b2914e55571"}]}
+{
+    "Archive": [
+        {
+            "commit": "229a1cc6bc238339de7c895d85a60b2914e55571",
+            "id": "65",
+            "name": "dash3",
+            "version": "1.0"
+        }
+    ],
+    "Development": [
+        {
+            "commit": "02aa998c45ca3724723dd13abffe0af8b321970e",
+            "id": "61",
+            "name": "dash2",
+            "previous_commit": "6380c5bbb7d076c2a50fd85712293ff74ed5e42e",
+            "previous_version": "1.0",
+            "version": "1.1"
+        },
+        {
+            "commit": "1982cadfe16885bf42de43180cabd3f524d49613",
+            "id": "64",
+            "name": "UUD with Look Dashboard2",
+            "previous_commit": "35b600b78ba716adb7646ae467ad8de1ff6b0fd4",
+            "previous_version": "1.1",
+            "version": "1.1"
+        }
+    ],
+    "Production": [
+        {
+            "commit": "16dc81c0663bc4a34c5fcf5b5f56b949757fbdd7",
+            "id": "56",
+            "name": "UUD with Look Dashboard",
+            "previous_commit": "4be9c9ff829108ace635a8501939ac22220948cb",
+            "previous_version": "1.1",
+            "version": "1.0"
+        },
+        {
+            "commit": "4de766c1a6280e3f156f1b62d6dd5de263d788f7",
+            "id": "63",
+            "name": "dash2",
+            "version": "1.2"
+        }
+    ],
+    "Staging": [
+        {
+            "commit": "17deeddd5f78c5b942cc5076404c769cc3aba3f3",
+            "id": "62",
+            "name": "dash2",
+            "previous_commit": "21d9f5789a0ee7d348b3690e9fbaa3b4fbfca023",
+            "previous_version": "1.1",
+            "version": "1.2"
+        }
+    ]
+}
