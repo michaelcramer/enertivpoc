@@ -1,10 +1,14 @@
 {
     "Development": [
         {
-            "commit": "409c34b3312e422b202b876ad10ecadf69c9a842",
+            "commit": "8f6cf3e1b206345d1c9beeff2a06d40768fbb158",
             "id": "66",
             "name": "dash2",
-            "version": "1.0"
+            "previous": {
+                "commit": "409c34b3312e422b202b876ad10ecadf69c9a842",
+                "version": "1.0"
+            },
+            "version": "1.1"
         },
         {
             "commit": "0fc2ab7d9c508bfd05d45de05dac0ee3150c2e5c",
