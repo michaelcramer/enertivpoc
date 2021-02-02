@@ -15,6 +15,12 @@
             "id": "61",
             "name": "dash3",
             "version": "1.0"
+        },
+        {
+            "commit": "bbcab40325a2130c28d923a2fb30341b82c58e68",
+            "id": "69",
+            "name": "UUD with Look Dashboard",
+            "version": "1.0"
         }
     ],
     "Production": [
