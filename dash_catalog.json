@@ -23,6 +23,12 @@
             "id": "56",
             "name": "UUD with Look Dashboard",
             "version": "1.0"
+        },
+        {
+            "commit": "4da52a4a30b125e1d4f40c63d74c43b4b08802df",
+            "id": "68",
+            "name": "dash2",
+            "version": "1.2"
         }
     ],
     "Staging": [
