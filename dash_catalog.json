@@ -1,1 +1,10 @@
-{}
+{
+    "Development": [
+        {
+            "commit": "409c34b3312e422b202b876ad10ecadf69c9a842",
+            "id": "66",
+            "name": "dash2",
+            "version": "1.0"
+        }
+    ]
+}
