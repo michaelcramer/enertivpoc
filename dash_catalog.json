@@ -29,14 +29,14 @@
     ],
     "Production": [
         {
-            "commit": "bb5626fab468f22b47d20501ad15222f68495fca",
+            "commit": "03627d6de1a921d9818282ea33cae7b5da6f2f5c",
             "id": "56",
             "name": "UUD with Look Dashboard",
             "previous": {
-                "commit": "03627d6de1a921d9818282ea33cae7b5da6f2f5c",
-                "version": "1.1"
+                "commit": "bb5626fab468f22b47d20501ad15222f68495fca",
+                "version": "1.0"
             },
-            "version": "1.0"
+            "version": "1.1"
         },
         {
             "commit": "4da52a4a30b125e1d4f40c63d74c43b4b08802df",
