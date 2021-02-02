@@ -27,10 +27,14 @@
     ],
     "Staging": [
         {
-            "commit": "4ea3a65240a82c6f56c2bf6bd6e0fe498595f156",
+            "commit": "32c848835ebb7b0f34dee9a393c9e1ea951af668",
             "id": "67",
             "name": "dash2",
-            "version": "1.1"
+            "previous": {
+                "commit": "4ea3a65240a82c6f56c2bf6bd6e0fe498595f156",
+                "version": "1.1"
+            },
+            "version": "1.2"
         }
     ]
 }
