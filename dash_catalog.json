@@ -5,6 +5,12 @@
             "id": "66",
             "name": "dash2",
             "version": "1.0"
+        },
+        {
+            "commit": "0fc2ab7d9c508bfd05d45de05dac0ee3150c2e5c",
+            "id": "61",
+            "name": "dash3",
+            "version": "1.0"
         }
     ]
 }
