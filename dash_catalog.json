@@ -25,6 +25,12 @@
                 "version": "1.1"
             },
             "version": "1.2"
+        },
+        {
+            "commit": "2bda8a85079a88cd0692cd151ebe00452f3ca57f",
+            "id": "71",
+            "name": "newdashboard",
+            "version": "1.0"
         }
     ],
     "Production": [
