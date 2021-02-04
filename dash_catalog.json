@@ -55,10 +55,14 @@
             "version": "1.2"
         },
         {
-            "commit": "a3bb23ffcf14dfce69892f6ea1378724b9468a91",
+            "commit": "4dab49b4f0fee6f99893c115b33db3855501ad57",
             "id": "72",
             "name": "newdashboard",
-            "version": "1.1"
+            "previous": {
+                "commit": "a3bb23ffcf14dfce69892f6ea1378724b9468a91",
+                "version": "1.1"
+            },
+            "version": "1.2"
         }
     ],
     "Staging": [
