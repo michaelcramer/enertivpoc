@@ -53,6 +53,12 @@
             "id": "68",
             "name": "dash2",
             "version": "1.2"
+        },
+        {
+            "commit": "a3bb23ffcf14dfce69892f6ea1378724b9468a91",
+            "id": "72",
+            "name": "newdashboard",
+            "version": "1.1"
         }
     ],
     "Staging": [
